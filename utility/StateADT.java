@@ -1,6 +1,7 @@
 package utility;
 /**
- * 
+ * A partial implementation of the State interface, to diminish the burden of
+ * future subclasses.
  */
 
 /**

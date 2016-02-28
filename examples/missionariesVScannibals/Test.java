@@ -12,6 +12,14 @@ import utility.NonDeterministicSearch;
 import utility.State;
 
 /**
+ * A simple test for the problem of Missionaries vs Cannibals.
+ * The problem is solved with a non deterministic search, several times (1000 by default).
+ * At the end of the runs, we collect statistics on which solution is found and with
+ * which occurrence.
+ * 
+ * For more information about this problem, see 
+ * {@link https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem}
+ * 
  * @author Pietro Grandinetti
  *
  */

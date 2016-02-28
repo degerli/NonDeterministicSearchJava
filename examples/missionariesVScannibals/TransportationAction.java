@@ -6,6 +6,11 @@ package examples.missionariesVScannibals;
 import utility.Action;
 
 /**
+ * 
+ * This class implements the Action interface for the problem of Missionaries vs Cannibals.
+ * For more information about this problem see
+ * {@link https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem}
+ * 
  * @author Pietro Grandinetti
  *
  */

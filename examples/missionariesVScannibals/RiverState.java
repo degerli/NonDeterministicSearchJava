@@ -7,6 +7,18 @@ import utility.Action;
 import utility.State;
 import utility.StateADT;
 
+/**
+ * This class implements the State interface for the problem of
+ * Missionaries vs Cannibals.
+ * 
+ * For more information about this problem, see 
+ * {@link https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem}
+ * 
+ * 
+ * @author Pietro Grandinetti
+ *
+ */
+
 public class RiverState extends StateADT {
 	
 	private int nMissLeft, nCannLeft, nMissRight, nCannRight;
